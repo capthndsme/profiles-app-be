@@ -1,0 +1,7 @@
+export type StatusCode = 
+  "OKAY"
+  | "NOT_FOUND"
+  | "VERIFICATION_FAILURE"
+  | "UPLOAD_FAILURE"
+  | "FORM_VALIDATION_FAILURE"
+  | "APP_ERROR"
